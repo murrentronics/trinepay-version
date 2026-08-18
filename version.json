@@ -1,1 +1,1 @@
-{"version": "1.0.158", "releaseNotes": "modified:   .env \tmodified:   .github/workflows/release.yml \tmodified:   android/app/build.gradle \trenamed:    dist/client/assets/index.capacitor-C15y-tke.js -> dist/client/assets/index.capacitor-DA3W"}
+{"version": "1.0.159", "releaseNotes": "Bug fixes and improvements."}
