@@ -1,1 +1,1 @@
-{"version":"1.0.157","releaseNotes":"	modified:   .env 	modified:   android/app/build.gradle 	renamed:    dist/client/assets/index.capacitor-DafntMrC.js -> dist/client/assets/index.capacitor-C15y-tke.js 	renamed:    dist/client/assets/in"}
+{"version": "1.0.158", "releaseNotes": "modified:   .env \tmodified:   .github/workflows/release.yml \tmodified:   android/app/build.gradle \trenamed:    dist/client/assets/index.capacitor-C15y-tke.js -> dist/client/assets/index.capacitor-DA3W"}
